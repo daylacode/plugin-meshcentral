@@ -1,0 +1,17 @@
+{
+  "name": "Sikker Selvbetjening Config Scaffold",
+  "shortName": "ssbconfig",
+  "version": "0.1.0",
+  "author": "Agnete Moos",
+  "description": "Empty MeshCentral plugin scaffold with no frontend or backend functionality.",
+  "hasAdminPanel": true,
+  "homepage": "https://github.com/OS2borgerPC/ssbconfig-meshcentral-plugin",
+  "changelogUrl": "https://raw.githubusercontent.com/OS2borgerPC/ssbconfig-meshcentral-plugin/main/CHANGELOG.md",
+  "configUrl": "https://raw.githubusercontent.com/OS2borgerPC/ssbconfig-meshcentral-plugin/main/config.json",
+  "downloadUrl": "https://github.com/OS2borgerPC/ssbconfig-meshcentral-plugin/archive/refs/heads/main.zip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OS2borgerPC/ssbconfig-meshcentral-plugin.git"
+  },
+  "meshCentralCompat": ">=1.1.0"
+}
